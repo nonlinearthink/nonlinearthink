@@ -9,7 +9,7 @@ Hi, I'm Jaycee Chow, a college student, studying software engineering in ZUCC.
 - 🌱 I’m currently interested in learning Front-end develop, Compiler
 - 🎮 I’m currently playing Control, Borderlands 3, Mafia and Death Stranding
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nonlinearthink&include_all_commits=true&hide_border=true&theme=graywhite) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonlinearthink&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=nonlinearthink.github.io)
+![Stats](https://github-readme-stats.vercel.app/api?username=nonlinearthink&include_all_commits=true&hide_border=true&theme=tokyonight) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonlinearthink&&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8&exclude_repo=nonlinearthink.github.io)
 
 <!-- ### ✏ Recent Posts -->
 
