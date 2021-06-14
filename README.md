@@ -11,7 +11,7 @@
 - 🎮 I’m currently playing Code Vein, Ace Attrony: Phoenix Wright Trilogy, Trails of Cold Steel 4, and CS:GO🔫 -->
 
 <!-- bg_color=60,f7b267,f25c54&text_color=fff&title_color=fff&icon_color=fff-->
-![Stats](https://github-readme-stats.vercel.app/api?username=nonlinearthink&include_all_commits=true&hide_border=true&theme=graywhite) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonlinearthink&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=wxGo)
+![Stats](https://github-readme-stats.vercel.app/api?username=nonlinearthink&include_all_commits=true&hide_border=true&theme=graywhite) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonlinearthink&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=nonlinearthink.github.io)
 
 <!-- ### ✏ Recent Posts -->
 
