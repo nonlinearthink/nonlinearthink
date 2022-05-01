@@ -1,13 +1,14 @@
 ### Hi there 👋, I'm Jaycee Chow
 
-[![Blog](https://img.shields.io/badge/Blog-nonlinearthink-blue?logo=hexo&style=flat)](https://nonlinearthink.github.io/)
-[![Zhihu](https://img.shields.io/badge/ZhiHu-nonlinearthink-blue?logo=zhihu&style=flat)](https://www.zhihu.com/people/neweden-85)
-[![Bilibili](https://img.shields.io/badge/Bilibili-nonlinearthink-blue?logo=bilibili&style=flat)](https://space.bilibili.com/22606472)
+[![Personal Blogs](https://img.shields.io/badge/Personal%20Blogs-nonlinearthink-blue?logo=hexo&style=flat)](https://nonlinearthink.github.io/)
 
-Hi, I'm Jaycee Chow, a college student, studying software engineering in ZUCC.
+Hi, my name is Jaycee Chow, I'm a prospective `web front-end engineer`.
 
-- 🌱 I’m currently interested in learning Front-end develop, Compiler
-- 🎮 I’m currently playing ff7re, sekiro and Death Stranding
+- 🔭 I'm currently studding at ZUCC.
+- 🌱 I'm currently learning Rust Programing.
+- 🎮 I'm currently playing Elden Ring.
+- 📫 How to reach me: search nonlinearthink with wechat.
+- ⚡ Fun fact: My friend says I have never once eaten a green coloured vegetable.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=nonlinearthink&include_all_commits=true&hide_border=true&theme=tokyonight) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nonlinearthink&&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8&exclude_repo=nonlinearthink.github.io)
 
