@@ -2,11 +2,8 @@
 
 [![Personal Blogs](https://img.shields.io/badge/Personal%20Blogs-nonlinearthink-blue?logo=hexo&style=flat)](https://nonlinearthink.github.io/)
 
-Hi, my name is Jaycee Chow, I'm a prospective `web front-end engineer`.
+Hi, my name is Jaycee Chow, I'm a `Web Developer` with a focus on `WebGL` and `GIS(Geographic Information System)` related work, also have extensive web development experience (`Web Side`, `Cross-Platform APP`) and most importantly, a love of `Compiler`.
 
-- 🔭 I'm currently studying at ZUCC.
-- 🌱 I'm currently learning Rust Programing.
-- 🎮 I'm currently playing Elden Ring.
 - 📫 How to reach me: Geeks need learning to hide themselves on the web.
 - ⚡ Fun fact: My friend says I have never once eaten a green coloured vegetable.
 
