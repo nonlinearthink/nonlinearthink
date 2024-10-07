@@ -2,9 +2,9 @@
 
 [![Blogs](https://img.shields.io/badge/Personal%20Blogs-nonlinearthink-blue?logo=hexo&style=flat)](https://nonlinearthink.github.io/)
 
-每个人都有最开始的梦想，只是往往最后被现实扭曲。
+每个人都有最开始的梦想，只是最后往往被现实扭曲。
 
-Every programmer has their initial dream, but it is often distorted by the real world in the end.
+Everyone had a dream at first, but it's always distorted in the end, by the real world.
 
 梦想不是理性的规划。
 
